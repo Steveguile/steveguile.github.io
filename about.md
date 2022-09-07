@@ -3,7 +3,7 @@
 # You can change it to the regular `page` layout if you want.
 layout: about
 title: About
-author: Pablo Arias
+author: Steve Whitehead
 menu: true
 order: 4
 ---

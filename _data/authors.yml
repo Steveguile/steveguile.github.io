@@ -3,13 +3,13 @@
 # You can change `author1` to your shortname.
 author1:
   # Replace <...> with your own (remove the < >)
-  name:              Pablo Arias
-  email:             pabloariasal@gmail.com
+  name:              Steve Whitehead
+  email:             TODO
 
   # Used at the bottom of each page and at the top of the `about` layout
   # Markdown enabled, can use multiple paragraphs (enabled by `|`)
   about:             |
-      This blog explores a variety of topics that I've stumbled across in my journey as a software developer. Even though mostly written for my own understanding, my hope is that the curious programmer finds my writings entertaining.
+      TODO
 
   # This photo will be used in the about section.
   #picture:
@@ -23,10 +23,10 @@ author1:
   # Social media icons in sidebar.
   # Comment/uncommet to show/hide. Rearrange to change the order in which they appear.
   social:
-    twitter:         pabloariasal
-    github:          pabloariasal
+    # twitter:         
+    github:           TODO
     # download:        https://github.com/qwtel/hydejack-starter-kit/archive/master.zip
-    email:           mailto:<pabloariasal@gmail.com>
+    email:            TODO # mailto:<pabloariasal@gmail.com>
     # rss:             https://<url>/feed.xml
     # facebook:        <username>
     # google:          <number>

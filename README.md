@@ -1,1 +1,1 @@
-My personal blog
+General notes of learnings
