@@ -4,7 +4,7 @@
 # IMPORTANT: Set the URL of your page.
 # Set to https://<username>.github.io when hosting on GitHub Pages
 # (unless you are using a custom domain).
-url:                   https://pabloariasal.github.io
+url:                   https://steveguile.github.io
 
 # IMPORTANT: Set The "base URL" of your site.
 #
@@ -22,17 +22,17 @@ baseurl:               ''
 lang:                  en
 
 # The title of your blog. Used in the sidebar and the browser tab.
-title:                 Pablo Arias
+title:                 Steve Whitehead
 
 # A short description (~150 chars) of the page used for the meta description tag.
 # Can use markdown, but no more than one paragraph (enforced by `>`)
 description:           >
   My personal blog.
-  Discusses a variety of topics in programming and software engineering.
+  Used to note learnings
 
 # A shorter description for the sidebar.
 tagline:               >
-  Personal blog about the little stuff I know
+  Personal blog for learnings
 
 # A list of keywords for your blog.
 keywords:              []
@@ -43,8 +43,8 @@ keywords:              []
 # This should be the same author as first entry in `_data/authors.yml`.
 # Duplication is necessary due to the `jekyll-feed`, `jekyll-seo-tag` plugin.
 author:
-  name:                Pablo Arias
-  email:               pabloariasal@gmail.com
+  name:                steve Whitehead
+  email:               TODO
   # Used by `jekyll-seo-tag`:
   # twitter:             <username>
 
