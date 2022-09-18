@@ -25,6 +25,3 @@ Using the GNU tool **od** we can directly inspect the characters of a file, pote
 
 `od -c file`
 
-Appendix link [^1] 
-
-[^1]: Generic Markdown
