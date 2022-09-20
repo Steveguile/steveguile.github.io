@@ -6,7 +6,7 @@ layout: list
 title: Linux
 
 # The name of the tag, used in a post's front matter (e.g. tags: [<slug>]).
-slug: linx
+slug: linux
 
 # Setting `menu` will generate an entry in the sidebar for this tag.
 menu: true
