@@ -1,1 +1,0 @@
-General notes of learnings
